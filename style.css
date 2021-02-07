@@ -4,7 +4,7 @@
   display: inline-block;
   margin-left: 280px;
 }
-#meals img {
+#meal-container img {
   width: 230px;
   padding-top: 10px;
 }
@@ -14,5 +14,8 @@
   font-weight: 600;
 }
 .meal {
-  padding: 20px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  background-color: #fff;
 }
