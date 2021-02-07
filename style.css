@@ -1,0 +1,18 @@
+#search {
+  width: 40%;
+  justify-content: center;
+  display: inline-block;
+  margin-left: 280px;
+}
+#meals img {
+  width: 230px;
+  padding-top: 10px;
+}
+#result-heading {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+}
+.meal {
+  padding: 20px;
+}
